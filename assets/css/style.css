@@ -57,21 +57,11 @@ main {
   font-size: 16px;
 }
 
-.row {
-}
-.column {
-}
-.column--esquerda {
-}
-.column--direita {
-}
 .hidden {
   display: none;
 }
 
 /* BODY */
-body {
-}
 
 /* PÁGINA INICIAL */
 main {
@@ -159,40 +149,9 @@ section ul li p {
   color: black;
 }
 
-.informaçoesContatoPortifolio {
-}
-
-.informaçoesContatoPortifolio_perfil {
-}
-.informaçoesContatoPortifolio_perfil h2 {
-}
-.informaçoesContatoPortifolio_perfil ul {
-}
-.informaçoesContatoPortifolio_perfil ul li {
-}
-
-.informaçoesExperienciasPortifolio_especialidades {
-}
-.informaçoesExperienciasPortifolio_especialidades h2 {
-}
-.informaçoesExperienciasPortifolio_especialidades ul {
-}
-.informaçoesExperienciasPortifolio_especialidades ul li {
-}
-.informaçoesExperienciasPortifolio_especialidades ul li p {
-}
-
 .informaçoesExperienciasPortifolio_cursos {
   margin-bottom: 0;
   border: none;
-}
-.informaçoesExperienciasPortifolio_cursos h2 {
-}
-.informaçoesExperienciasPortifolio_cursos ul {
-}
-.informaçoesExperienciasPortifolio_cursos ul li {
-}
-.informaçoesExperienciasPortifolio_cursos ul li p {
 }
 
 /* FOOTER */
@@ -200,8 +159,7 @@ footer {
   background-color: #11325e;
   padding: 30px;
 }
-.redesSociais {
-}
+
 .redesSocais_lista {
   text-align: center;
 }
@@ -209,8 +167,7 @@ footer {
   display: inline-block;
   margin: 0 5px;
 }
-.redesSociais_lista_item a {
-}
+
 .redesSociais_lista_item img {
   width: 100%;
   max-width: 20px;
