@@ -98,9 +98,28 @@ section ul li p {
 
 .projetos a {
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 2rem;
   padding-top: 60px;
   padding-bottom: 20px;
+  color: #000;
+  text-transform: uppercase;
+}
+.projetos a:hover {
+  color: #fff;
+  cursor: pointer;
+}
+
+.projetos {
+  display: flex;
+  flex-direction: column;
+  animation: move 4s ease infinite;
+  width: 100px;
+}
+
+@keyframes move {
+  50% {
+    transform: translate(0px, 30px);
+  }
 }
 
 .informaçoesContatoPortifolio_imagem {
