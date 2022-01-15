@@ -109,11 +109,15 @@ section ul li p {
   cursor: pointer;
 }
 
+.projetos img {
+  width: 100px;
+}
+
 .projetos {
   display: flex;
+  align-items: center;
   flex-direction: column;
   animation: move 4s ease infinite;
-  width: 100px;
 }
 
 @keyframes move {
